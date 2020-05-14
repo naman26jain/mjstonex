@@ -1,0 +1,41 @@
+
+.jumbotron{
+    
+    text-shadow: navy;
+    padding-top: 5rem;
+    
+}
+body{
+    text-emphasis-color: #1a3e62;
+    background-color: #1a3e62;
+}
+.bg-dark {
+    background-color: #1a3e62;
+}
+#carousel-inner{
+    height: 100px;
+}
+#nj{
+    color: black;
+    border-bottom: 0.2rem solid rgb(197, 195, 195);
+    
+    
+}
+ .bottom-container {
+    color: white;
+    font-weight: lighter;
+    text-align: center;
+    background-color:#1a3e62;
+    padding: 50px 0 20px;
+    text-decoration-color: black;
+    background-color:#1a3e62;
+    padding: 50px 0 20px;
+  }
+ .footerlink {
+    color: white;
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    size: 10rem;
+    margin: 3rem;
+  }
